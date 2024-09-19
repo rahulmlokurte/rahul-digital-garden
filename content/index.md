@@ -1,6 +1,11 @@
 ---
-title: Welcome to Quartz
+title: "Welcome to My Digital Garden"
+subtitle: "Exploring ideas, technology, and creativity"
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## Hi, I'm Rahul
+Welcome to my digital garden, where I share my notes on various topics such as software engineering, machine learning, and telecom.
+
+This is a place where ideas grow and evolve, and I invite you to explore.
+
+---
