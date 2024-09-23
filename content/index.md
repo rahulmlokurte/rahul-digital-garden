@@ -8,4 +8,7 @@ Welcome to my digital garden, where I share my notes on various topics such as s
 
 This is a place where ideas grow and evolve, and I invite you to explore.
 
+## Recent
+[Intellij Shortcut - the keymaps that I use often](Intellij_Shortcuts)
+
 ---
