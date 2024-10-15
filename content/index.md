@@ -10,6 +10,7 @@ This is a place where ideas grow and evolve, and I invite you to explore.
 
 ## Recent
 [Understanding Mason Package](neovim/Understanding_mason)
+
 [Intellij Shortcut - the keymaps that I use often](IntelliJ_Shortcuts)
 
 [Create Neovim Plugins](neovim/Create_Neovim_Plugins)
